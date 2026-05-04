@@ -1,8 +1,10 @@
 # Dentalinsider
 DentalInsider is an all-in-one solution built for dental professionals to enhance their digital visibility, manage patient feedback with ease, and attract individuals actively looking for reliable dental services.
 
-## 🌐 Live Demo  
-🔗 http://dentalinsider.com
+We build healthcare directories and digital solutions that help streamline the healthcare business.
+
+## 🌐 Site URL  
+🔗 https://dentalinsider.com
 
 ---
 

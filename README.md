@@ -23,7 +23,7 @@ Built for both desktop and mobile use, DentalInsider delivers a smooth, user-fri
 
 
 ## 🎯 Key Features
-![Module](https://github.com/netstaffle-tech/Dentalinsider/blob/main/Dentalinsider_Application.png
+![Module](https://github.com/netstaffle-tech/Dentalinsider/blob/main/Dentalinsider_Application.png)
 
 ## Smart Discovery of Dental Care
 Patients can quickly find the right dental professionals using intuitive filters like location, treatment type, or     practitioner name, with access to in-depth profiles that highlight expertise, services, and patient experiences.

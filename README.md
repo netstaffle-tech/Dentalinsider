@@ -69,14 +69,6 @@ Despite designing a comprehensive and intuitive dental directory, the developmen
 We resolved these by optimizing search performance, implementing profile verification for trust, and building a reliable real-time appointment system—along with UI and performance improvements to ensure a smooth user experience.
 
 
-## 📈 Results / Impact  
-- 🚀 Improved performance by XX%  
-- 📊 Increased user engagement  
-- 💼 Delivered within X days  
-- 💰 Helped client achieve [result]
-
----
-
 ## 🔐 Code Access  
 
 > 🚫 This repository does not contain source code due to client confidentiality.

@@ -9,8 +9,7 @@ DentalInsider is an all-in-one solution built for dental professionals to enhanc
 ## 📸 Project Preview  
 
 ### 🖥️ Screenshots  
-![Homepage](https://github.com/netstaffle-tech/Dentalinsider/blob/main/Dentalinsider_Laravel_Project.png)  
-![Dashboard]([https://github.com/netstaffle-tech/Dentalinsider/blob/main/Dentalinsider_Laravel_Project.png])  
+![Homepage](https://github.com/netstaffle-tech/Dentalinsider/blob/main/Dentalinsider_Laravel_Project.png)
 
 
 ## 🧩 Project Overview  
@@ -22,6 +21,8 @@ Built for both desktop and mobile use, DentalInsider delivers a smooth, user-fri
 
 
 ## 🎯 Key Features
+(https://github.com/netstaffle-tech/Dentalinsider/blob/main/Dentalinsider_Application.png)
+
 ## Smart Discovery of Dental Care
 Patients can quickly find the right dental professionals using intuitive filters like location, treatment type, or     practitioner name, with access to in-depth profiles that highlight expertise, services, and patient experiences.
 
@@ -39,10 +40,8 @@ DentalInsider brings in users who are actively searching for care, helping clini
     
 *(Customize based on project)*
 
----
 
 ## 🛠️ Tech Stack  
-
 **Frontend:**  
 - HTML / CSS / Bootstrap / JavaScript  
 
@@ -83,9 +82,9 @@ We resolved these by optimizing search performance, implementing profile verific
 ---
 
 ## 👨‍💻 My Role  
-
 - Full-stack development
-- API integration  
+- API integration
+- Module & Flow
 - Deployment & optimization  
 
 ---

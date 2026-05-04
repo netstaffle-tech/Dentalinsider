@@ -9,13 +9,9 @@ DentalInsider is an all-in-one solution built for dental professionals to enhanc
 ## 📸 Project Preview  
 
 ### 🖥️ Screenshots  
-![Homepage](your-image-link)  
-![Dashboard](your-image-link)  
+![Homepage](https://github.com/netstaffle-tech/Dentalinsider/blob/main/Dentalinsider_Laravel_Project.png)  
+![Dashboard]([https://github.com/netstaffle-tech/Dentalinsider/blob/main/Dentalinsider_Laravel_Project.png])  
 
-### 🎥 Demo Video (Optional)  
-🔗 [https://loom.com/your-video]
-
----
 
 ## 🧩 Project Overview  
 DentalInsider is a digital platform designed to simplify how patients discover and connect with trusted dental professionals. It enables users to explore clinics, compare services, and make informed decisions through authentic patient feedback and detailed practitioner profiles.
@@ -26,20 +22,20 @@ Built for both desktop and mobile use, DentalInsider delivers a smooth, user-fri
 
 
 ## 🎯 Key Features
-  ## Smart Discovery of Dental Care
-  Patients can quickly find the right dental professionals using intuitive filters like location, treatment type, or practitioner name, with access to in-depth profiles that highlight expertise, services, and patient experiences.
+## Smart Discovery of Dental Care
+Patients can quickly find the right dental professionals using intuitive filters like location, treatment type, or     practitioner name, with access to in-depth profiles that highlight expertise, services, and patient experiences.
 
-   ## Seamless Booking & Honest Feedback
-    An integrated scheduling system enables instant appointment requests, while genuine patient reviews create a transparent environment that helps others make confident decisions.
+## Seamless Booking & Honest Feedback 
+An integrated scheduling system enables instant appointment requests, while genuine patient reviews create a transparent environment that helps others make confident decisions.
 
-  ## Own and Manage Your Professional Identity
-  Verified dentists can take full control of their profiles—updating information, showcasing services, and presenting their practice in a way that reflects their brand.
+## Own and Manage Your Professional Identity
+Verified dentists can take full control of their profiles—updating information, showcasing services, and presenting their practice in a way that reflects their brand.
 
-  ## Build Trust Through Visibility
-  Comprehensive profiles combined with authentic feedback help dental professionals strengthen credibility and stand out in a competitive market.
+## Build Trust Through Visibility
+Comprehensive profiles combined with authentic feedback help dental professionals strengthen credibility and stand out in a competitive market.
 
-  ## Connect with High-Intent Patients
-    DentalInsider brings in users who are actively searching for care, helping clinics engage with patients who are ready to take the next step.
+## Connect with High-Intent Patients
+DentalInsider brings in users who are actively searching for care, helping clinics engage with patients who are ready to take the next step.
     
 *(Customize based on project)*
 
@@ -60,7 +56,6 @@ Built for both desktop and mobile use, DentalInsider delivers a smooth, user-fri
 - Google Maps API  
 - Payment Gateway (Stripe)  
 
----
 
 ## 💡 Challenges & Solutions  
 
@@ -72,8 +67,8 @@ Despite designing a comprehensive and intuitive dental directory, the developmen
 
 We resolved these by optimizing search performance, implementing profile verification for trust, and building a reliable real-time appointment system—along with UI and performance improvements to ensure a smooth user experience.
 
-## 📈 Results / Impact  
 
+## 📈 Results / Impact  
 - 🚀 Improved performance by XX%  
 - 📊 Increased user engagement  
 - 💼 Delivered within X days  
@@ -83,8 +78,7 @@ We resolved these by optimizing search performance, implementing profile verific
 
 ## 🔐 Code Access  
 
-> 🚫 This repository does not contain source code due to client confidentiality.  
-> 📩 However, I can provide a walkthrough or demo upon request.
+> 🚫 This repository does not contain source code due to client confidentiality.
 
 ---
 
